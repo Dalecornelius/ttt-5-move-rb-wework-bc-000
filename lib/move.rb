@@ -9,6 +9,7 @@ end
 # code your input_to_index and move method h
 
 def input_to_index(user_input)
-user_input.to_i = converted_input
+if user_input == 0 < && < 10
+  puts user_input.to_i -1
 
 end
