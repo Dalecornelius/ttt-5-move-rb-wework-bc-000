@@ -9,6 +9,5 @@ end
 # code your input_to_index and move method h
 
 def input_to_index(user_input)
- input_to_index = user_input.to_i
- puts input_to_index( - 1)
+ puts user_input.to_i( - 1)
  end
