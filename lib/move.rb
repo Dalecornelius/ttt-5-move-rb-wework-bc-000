@@ -8,7 +8,7 @@ end
 
 # code your input_to_index and move method h
 
-def input_to_index(user_input, converted_input)
+def input_to_index(user_input, board)
   converted_input = user_input.to_i
   puts converted_input -1
   
